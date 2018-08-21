@@ -33,6 +33,10 @@ Q. How do I completely uninstall this app?
 
 A. Uncheck "Install Firefox Extension" and "Install Chrome Extension" in Settings. Delete C:\Users\<your username>\App Data\Local\WarframeTradeAssistant folder. Better installer and uninstaller might come later.
 
+Q. Isn't there an official app?
+
+A. There is, however chat in it only works when it's in a foreground, preventing you from using your device for anything else, and there is no sound on getting a whisper. You also can't be logged into the app and the game at the same time.
+
 Q. Will this get me banned from Warframe?
 
 A. Only way in which this app interacts with Warframe is by taking a screenshot of the game's window every second, and analyzing the image to detect new private messages. If streaming the game is fine, then this, presumably, should be fine too.
