@@ -1,0 +1,9 @@
+﻿{
+	"name": "space.xelys.warframetradeassistanthost",
+	"description": "Host for WarframeTradeAssistant companion extension",
+	"path": "./WarframeTradeAssistantExtensionHost.exe",
+	"type": "stdio",
+	"allowed_extensions": [
+		"warframetradeassistant@xelys.space"
+	]
+}

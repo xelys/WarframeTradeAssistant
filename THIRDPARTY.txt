@@ -1,0 +1,39 @@
+This project contains dependencies on following libraries:
+
+Tesseract.Net by Charles Weld:
+https://github.com/charlesw/tesseract
+License: https://github.com/charlesw/tesseract/blob/master/LICENSE.txt
+
+Tesseract Open Source OCR Engine:
+https://github.com/tesseract-ocr/tesseract
+License: https://github.com/tesseract-ocr/tesseract/blob/master/LICENSE
+
+Newtonsoft.Json by James Newton-King:
+https://www.newtonsoft.com/json
+License: https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/LICENSE.md
+
+WebSocketSharp by sta
+https://sta.github.io/websocket-sharp/
+License: https://raw.githubusercontent.com/sta/websocket-sharp/master/LICENSE.txt
+
+MaterialSkin by Ignace Maes:  
+https://github.com/IgnaceMaes/MaterialSkin
+License: https://github.com/IgnaceMaes/MaterialSkin/blob/master/LICENSE
+
+It also includes:
+
+Icons from "Developpers" icon set by Sekkyumu
+https://www.iconfinder.com/iconsets/developperss
+License: "Free for commercial use"
+
+Icons from Material Design icon set by Google
+https://material.io/tools/icons
+License: https://www.apache.org/licenses/LICENSE-2.0.html
+
+Animated icon by https://preloaders.net
+https://icons8.com/preloaders/en/circular/fading-balls/
+License: https://icons8.com/preloaders/en/terms_of_use
+
+Font "Bitstream Vera Sans Mono" By The Gnome Project
+https://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/ttf-bitstream-vera-1.10.zip
+License: https://www.gnome.org/fonts/#Final_Bitstream_Vera_Fonts

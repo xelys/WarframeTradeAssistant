@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Warframe Trade Assistant",
+  "version": "0.1.0",
+  "description": "Allows Warframe Trade Assistant to obtain warframe.market cookie to send requests on user's behalf.",
+  "permissions": [
+    "cookies",
+    "https://warframe.market/*",
+	"nativeMessaging"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
